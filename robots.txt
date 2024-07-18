@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://liqualtuse.github.io/sitemap
+Sitemap: https://liqualtuse.github.io/app/sitemap
+Sitemap: https://liqualtuse.github.io/assets/sitemap
+Sitemap: https://liqualtuse.github.io/css/sitemap
+Sitemap: https://liqualtuse.github.io/includes/sitemap
+Sitemap: https://liqualtuse.github.io/item/sitemap
+Sitemap: https://liqualtuse.github.io/src/sitemap
